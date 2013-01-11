@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octrpc
+END
+oct6100_rpc_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octrpc/oct6100_rpc_protocol.h
+END
+rpc_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octrpc/rpc_protocol.h
+END

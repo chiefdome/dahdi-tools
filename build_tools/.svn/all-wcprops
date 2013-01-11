@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/10721/tools/trunk/build_tools
+END
+dahdi_sysfs_copy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10496/tools/trunk/build_tools/dahdi_sysfs_copy
+END
+make_tree
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10721/tools/trunk/build_tools/make_tree
+END
+uninstall-modules
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/4337/tools/trunk/build_tools/uninstall-modules
+END
+dahdi_svn_tarball
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/4356/tools/trunk/build_tools/dahdi_svn_tarball
+END
+make_version
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/4342/tools/trunk/build_tools/make_version
+END
+menuselect-deps.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/10721/tools/trunk/build_tools/menuselect-deps.in
+END
+test_kernel_git
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/4337/tools/trunk/build_tools/test_kernel_git
+END
+dump_sys_state
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10497/tools/trunk/build_tools/dump_sys_state
+END
+make_firmware_object.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dahdi/!svn/ver/4337/tools/trunk/build_tools/make_firmware_object.in
+END
+make_version_c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dahdi/!svn/ver/4647/tools/trunk/build_tools/make_version_c
+END

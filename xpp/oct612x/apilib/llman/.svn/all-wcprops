@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/llman
+END
+octapi_llman_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/llman/octapi_llman_private.h
+END
+octapi_llman.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/llman/octapi_llman.c
+END

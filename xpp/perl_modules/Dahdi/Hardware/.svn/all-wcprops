@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10680/tools/trunk/xpp/perl_modules/Dahdi/Hardware
+END
+USB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dahdi/!svn/ver/10505/tools/trunk/xpp/perl_modules/Dahdi/Hardware/USB.pm
+END
+PCI.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dahdi/!svn/ver/10680/tools/trunk/xpp/perl_modules/Dahdi/Hardware/PCI.pm
+END

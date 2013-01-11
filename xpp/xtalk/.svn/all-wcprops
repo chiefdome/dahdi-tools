@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dahdi/!svn/ver/10714/tools/trunk/xpp/xtalk
+END
+xusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/10714/tools/trunk/xpp/xtalk/xusb.c
+END
+xlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/xlist.c
+END
+xtalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/xtalk.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/debug.c
+END
+xusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/xusb.h
+END
+xlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/9825/tools/trunk/xpp/xtalk/xlist.h
+END
+xtalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/xtalk.h
+END
+xtalk_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/xtalk_defs.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10713/tools/trunk/xpp/xtalk/debug.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api
+END
+oct6100_tsst.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsst.c
+END
+oct6100_remote_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_remote_debug.c
+END
+oct6100_conf_bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_conf_bridge.c
+END
+oct6100_chip_stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_stats.c
+END
+oct6100_tone_detection.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tone_detection.c
+END
+oct6100_miscellaneous.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_miscellaneous.c
+END
+oct6100_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_events.c
+END
+oct6100_chip_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_chip_open.c
+END
+oct6100_tlv.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tlv.c
+END
+oct6100_phasing_tsst.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_phasing_tsst.c
+END
+oct6100_tsi_cnct.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_tsi_cnct.c
+END
+oct6100_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_memory.c
+END
+oct6100_channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_channel.c
+END
+oct6100_adpcm_chan.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_adpcm_chan.c
+END
+oct6100_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_user.c
+END
+oct6100_interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_interrupts.c
+END
+oct6100_mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_mixer.c
+END
+oct6100_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_debug.c
+END
+oct6100_playout_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octdeviceapi/oct6100api/oct6100_api/oct6100_playout_buf.c
+END

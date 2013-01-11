@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/dahdi/!svn/ver/10306/tools/trunk/doc
+END
+dahdi_diag.8
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/dahdi_diag.8
+END
+dahdi_scan.8
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/dahdi_scan.8
+END
+patgen.8
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/patgen.8
+END
+dahdi_monitor.8
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dahdi/!svn/ver/10196/tools/trunk/doc/dahdi_monitor.8
+END
+fxstest.8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/4732/tools/trunk/doc/fxstest.8
+END
+dahdi_maint.8
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10198/tools/trunk/doc/dahdi_maint.8
+END
+pattest.8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/pattest.8
+END
+dahdi_tool.8
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/4732/tools/trunk/doc/dahdi_tool.8
+END
+dahdi_cfg.8
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/10306/tools/trunk/doc/dahdi_cfg.8
+END
+dahdi_test.8
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/dahdi_test.8
+END
+fxotune.8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/8529/tools/trunk/doc/fxotune.8
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/bt
+END
+octapi_bt0_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/bt/octapi_bt0_private.h
+END
+octapi_bt0.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/apilib/bt/octapi_bt0.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/10542/tools/trunk/xpp/oct612x
+END
+get_discards
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/get_discards
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/Makefile
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/test.c
+END
+octasic-helper
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/octasic-helper
+END

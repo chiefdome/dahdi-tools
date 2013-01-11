@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 318
+astribank_hexload
+astribank_allow
+astribank_is_starting
+astribank_tool
+fpga_load
+test_parse
+libhexfile.*
+.depend
+.octasic.depend
+.perlcheck
+.*.swp
+print_modes
+init_fxo_modes
+wctdm_fxomodes.h
+xpp_blink.8
+xpp_sync.8
+perlcheck
+adj_clock
+dahdi_hardware.8
+dahdi_registration.8
+dahdi_genconf.8
+lsdahdi.8
+*.8.html
+twinstar.8
+
+END

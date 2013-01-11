@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include
+END
+digium_unused.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/digium_unused.h
+END
+octdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octdef.h
+END
+octtypevx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octtypevx.h
+END
+octtypewin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octtypewin.h
+END
+octmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octmac.h
+END
+octtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octtype.h
+END
+octosdependant.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/octosdependant.h
+END

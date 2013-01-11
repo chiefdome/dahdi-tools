@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/dahdi/!svn/ver/10715/tools/trunk/xpp
+END
+astribank_allow.8
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10502/tools/trunk/xpp/astribank_allow.8
+END
+pic_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/9825/tools/trunk/xpp/pic_loader.c
+END
+echo_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10715/tools/trunk/xpp/echo_loader.c
+END
+astribank_upgrade
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/6313/tools/trunk/xpp/astribank_upgrade
+END
+pic_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/6313/tools/trunk/xpp/pic_loader.h
+END
+mpptalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dahdi/!svn/ver/10506/tools/trunk/xpp/mpptalk.c
+END
+echo_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10032/tools/trunk/xpp/echo_loader.h
+END
+astribank_is_starting.8
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/8529/tools/trunk/xpp/astribank_is_starting.8
+END
+test_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/6417/tools/trunk/xpp/test_parse.c
+END
+twinstar_hook
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/7463/tools/trunk/xpp/twinstar_hook
+END
+twinstar_setup
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/6417/tools/trunk/xpp/twinstar_setup
+END
+xpp_fxloader
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/10495/tools/trunk/xpp/xpp_fxloader
+END
+astribank_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10501/tools/trunk/xpp/astribank_tool.c
+END
+mpptalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dahdi/!svn/ver/10501/tools/trunk/xpp/mpptalk.h
+END
+genconf_parameters
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/8923/tools/trunk/xpp/genconf_parameters
+END
+astribank_hexload.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10343/tools/trunk/xpp/astribank_hexload.c
+END
+xpp_sync
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/10492/tools/trunk/xpp/xpp_sync
+END
+hexfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/6337/tools/trunk/xpp/hexfile.c
+END
+dahdi_drivers
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/6313/tools/trunk/xpp/dahdi_drivers
+END
+lsdahdi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/10194/tools/trunk/xpp/lsdahdi
+END
+astribank_usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dahdi/!svn/ver/10368/tools/trunk/xpp/astribank_usb.c
+END
+waitfor_xpds
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dahdi/!svn/ver/10465/tools/trunk/xpp/waitfor_xpds
+END
+hexfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/6313/tools/trunk/xpp/hexfile.h
+END
+dahdi.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/5088/tools/trunk/xpp/dahdi.cgi
+END
+README.Astribank
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10701/tools/trunk/xpp/README.Astribank
+END
+twinstar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/9031/tools/trunk/xpp/twinstar
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/10504/tools/trunk/xpp/Makefile
+END
+astribank_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/dahdi/!svn/ver/10498/tools/trunk/xpp/astribank_usb.h
+END
+xpp_timing
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/dahdi/!svn/ver/4374/tools/trunk/xpp/xpp_timing
+END
+astribank_tool.8
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dahdi/!svn/ver/10264/tools/trunk/xpp/astribank_tool.8
+END
+mpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dahdi/!svn/ver/10501/tools/trunk/xpp/mpp.h
+END
+dahdi_hardware
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/10194/tools/trunk/xpp/dahdi_hardware
+END
+xpp_blink
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/dahdi/!svn/ver/4416/tools/trunk/xpp/xpp_blink
+END
+astribank_hexload.8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10504/tools/trunk/xpp/astribank_hexload.8
+END
+astribank_allow.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dahdi/!svn/ver/10543/tools/trunk/xpp/astribank_allow.c
+END
+astribank_hook
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/10585/tools/trunk/xpp/astribank_hook
+END
+xpp_modprobe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dahdi/!svn/ver/4416/tools/trunk/xpp/xpp_modprobe
+END
+mpptalk_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/dahdi/!svn/ver/10491/tools/trunk/xpp/mpptalk_defs.h
+END
+astribank_license.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10549/tools/trunk/xpp/astribank_license.c
+END
+dahdi_registration
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10032/tools/trunk/xpp/dahdi_registration
+END
+astribank_is_starting.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/9831/tools/trunk/xpp/astribank_is_starting.c
+END
+astribank_license.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/10502/tools/trunk/xpp/astribank_license.h
+END
+xpp_fxloader.usermap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dahdi/!svn/ver/4374/tools/trunk/xpp/xpp_fxloader.usermap
+END
+dahdi_genconf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/dahdi/!svn/ver/10194/tools/trunk/xpp/dahdi_genconf
+END

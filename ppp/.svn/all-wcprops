@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/dahdi/!svn/ver/9220/tools/trunk/ppp
+END
+dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/dahdi/!svn/ver/9220/tools/trunk/ppp/dahdi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dahdi/!svn/ver/4455/tools/trunk/ppp/Makefile
+END

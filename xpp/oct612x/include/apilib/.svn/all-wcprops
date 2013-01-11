@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/apilib
+END
+octapi_largmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/apilib/octapi_largmath.h
+END
+octapi_llman.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/apilib/octapi_llman.h
+END
+octapi_bt0.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/apilib/octapi_bt0.h
+END

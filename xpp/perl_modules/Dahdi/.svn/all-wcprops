@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dahdi/!svn/ver/10680/tools/trunk/xpp/perl_modules/Dahdi
+END
+Xpp.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dahdi/!svn/ver/10494/tools/trunk/xpp/perl_modules/Dahdi/Xpp.pm
+END
+Chans.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/9731/tools/trunk/xpp/perl_modules/Dahdi/Chans.pm
+END
+Hardware.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dahdi/!svn/ver/7012/tools/trunk/xpp/perl_modules/Dahdi/Hardware.pm
+END
+Utils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dahdi/!svn/ver/10492/tools/trunk/xpp/perl_modules/Dahdi/Utils.pm
+END
+Span.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/10308/tools/trunk/xpp/perl_modules/Dahdi/Span.pm
+END

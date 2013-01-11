@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api
+END
+oct6100_chip_open_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_chip_open_inst.h
+END
+oct6100_tlv_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tlv_inst.h
+END
+oct6100_apiud.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_apiud.h
+END
+oct6100_tsi_cnct_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tsi_cnct_inst.h
+END
+oct6100_channel_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_channel_inst.h
+END
+oct6100_chip_stats_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_chip_stats_pub.h
+END
+oct6100_conf_bridge_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_conf_bridge_pub.h
+END
+oct6100_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_api.h
+END
+oct6100_tone_detection_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tone_detection_pub.h
+END
+oct6100_events_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_events_pub.h
+END
+oct6100_phasing_tsst_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_phasing_tsst_pub.h
+END
+oct6100_interrupts_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_interrupts_inst.h
+END
+oct6100_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_errors.h
+END
+oct6100_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_defines.h
+END
+oct6100_debug_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_debug_inst.h
+END
+oct6100_interrupts_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_interrupts_pub.h
+END
+oct6100_playout_buf_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_playout_buf_inst.h
+END
+oct6100_mixer_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_mixer_pub.h
+END
+oct6100_tsst_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tsst_inst.h
+END
+oct6100_remote_debug_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_remote_debug_inst.h
+END
+oct6100_playout_buf_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_playout_buf_pub.h
+END
+oct6100_events_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_events_inst.h
+END
+oct6100_phasing_tsst_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_phasing_tsst_inst.h
+END
+oct6100_api_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_api_inst.h
+END
+oct6100_remote_debug_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_remote_debug_pub.h
+END
+oct6100_adpcm_chan_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_adpcm_chan_inst.h
+END
+oct6100_chip_open_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_chip_open_pub.h
+END
+oct6100_tsi_cnct_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tsi_cnct_pub.h
+END
+oct6100_channel_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_channel_pub.h
+END
+oct6100_mixer_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_mixer_inst.h
+END
+oct6100_adpcm_chan_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_adpcm_chan_pub.h
+END
+oct6100_debug_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_debug_pub.h
+END
+oct6100_chip_stats_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_chip_stats_inst.h
+END
+oct6100_conf_bridge_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_conf_bridge_inst.h
+END
+oct6100_apimi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_apimi.h
+END
+oct6100_tone_detection_inst.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dahdi/!svn/ver/10030/tools/trunk/xpp/oct612x/include/oct6100api/oct6100_tone_detection_inst.h
+END
